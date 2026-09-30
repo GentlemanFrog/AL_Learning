@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This is my personal learning roadmap and portfolio for transitioning into a **Data Scientist / Computer Vision Specialist** role. Over 6 months, I'm building skills in Python, machine learning, computer vision, and MLOps while working on a real-world project: detecting early signs of metal toxicity in aquatic plants.
+This is my personal learning roadmap and portfolio for building skills in **Data Science** and **Computer Vision**. I'm focusing on Python, machine learning, deep learning, and MLOps while working on a real-world project: detecting early signs of metal toxicity in aquatic plants.
 
 ## My Project
 
@@ -21,7 +21,7 @@ I'm building an end-to-end pipeline that uses:
 ```
 AL_Learning/
 ├── README.md              # This file
-├── ROADMAP.md             # 6-month learning plan
+├── ROADMAP.md             # Learning plan
 ├── GLOSSARY.md            # Key terms and definitions
 ├── projects/              # Portfolio projects
 │   └── plant-detection/   # Main project
@@ -33,11 +33,6 @@ AL_Learning/
 - [ ] Phase 2: Core ML & Computer Vision
 - [ ] Phase 3: Advanced Techniques & Portfolio Projects
 - [ ] Phase 4: Production Skills & Job Readiness
-
-## Connect
-
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
 
 ---
 

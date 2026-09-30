@@ -25,11 +25,6 @@ Curated list of learning resources, tools, and references.
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [Albumentations](https://albumentations.ai/) — Data augmentation
 
-## Polish Job Market
-- [Just Join IT](https://justjoin.it/) — Tech job board
-- [No Fluff Jobs](https://nofluffjobs.com/) — Tech job board
-- [Allegro Careers](https://allegro.pl/praca) — Allegro job listings
-
 ## Communities
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 - [r/datascience](https://www.reddit.com/r/datascience/)

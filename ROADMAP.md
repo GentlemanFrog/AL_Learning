@@ -1,9 +1,7 @@
-# 6-Month Data Science & Computer Vision Roadmap
+# Data Science & Computer Vision Roadmap
 
-**Target Role:** Data Scientist / Computer Vision Specialist  
-**Time Commitment:** 10 hours/week (~240 hours total)  
+**Focus:** Python, Machine Learning, Computer Vision, MLOps  
 **Learning Style:** 30% structured learning, 70% hands-on building  
-**Target Market:** Polish companies or companies operating in Poland  
 
 ---
 
@@ -152,7 +150,7 @@
    - Write one Medium blog post about your learning journey
 
 4. **Job Market Preparation** (5 hours)
-   - Research 10-15 target companies (Allegro, InPost, Booksy, Docplanner, etc.)
+   - Research target companies and roles
    - Tailor CV to highlight portfolio projects
    - Prepare for technical interviews: Python, ML concepts, your project
 
@@ -164,15 +162,15 @@
 
 ---
 
-## Weekly Structure (10 hours)
+## Weekly Structure
 
-| Day | Activity | Time |
-|-----|----------|------|
-| 1 | Structured learning (course/book) | 2 hours |
-| 2 | Hands-on coding (implement what you learned) | 2 hours |
-| 3 | Project work (apply to your plant detection) | 3 hours |
-| 4 | Review, documentation, GitHub commits | 2 hours |
-| 5 | Community (forums, blog reading, networking) | 1 hour |
+| Day | Activity |
+|-----|----------|
+| 1 | Structured learning (course/book) |
+| 2 | Hands-on coding (implement what you learned) |
+| 3 | Project work (apply to your plant detection) |
+| 4 | Review, documentation, GitHub commits |
+| 5 | Community (forums, blog reading, networking) |
 
 ---
 
@@ -199,7 +197,6 @@
 - r/MachineLearning, r/datascience
 - PyTorch Discord
 - Kaggle competitions and notebooks
-- LinkedIn ML/CV groups
 
 ---
 
@@ -211,14 +208,14 @@ By the end of 6 months, you should have:
 - [ ] Proficiency in Python, SQL, PyTorch, and OpenCV
 - [ ] Understanding of MLOps fundamentals (Docker, deployment)
 - [ ] Ability to explain your work to technical and non-technical audiences
-- [ ] 10-15 target companies identified and applications submitted
+- [ ] Target companies identified and applications submitted
 
 ---
 
 ## Notes
 
 - **Math on-demand:** Learn mathematical concepts as needed for projects rather than front-loading. When you encounter a concept (e.g., gradient descent, convolution), study it then.
-- **Build in public:** Commit to GitHub regularly. Share progress on LinkedIn when comfortable.
-- **SAHI is crucial:** Your small objects on large images require this technique. Master it early.
-- **Limited data strategy:** Use transfer learning, data augmentation, and SAHI to maximize what you can learn from tens of images.
-- **Polish market:** Python + SQL are non-negotiable. PyTorch preferred for CV. MLOps skills differentiate you.
+- **Build in public:** Commit to GitHub regularly and share progress.
+- **SAHI is crucial:** Small objects on large images require this technique. Master it early.
+- **Limited data strategy:** Use transfer learning, data augmentation, and SAHI to maximize what you can learn from small datasets.
+- **Industry relevance:** Python + SQL are core requirements. PyTorch is preferred for CV. MLOps skills differentiate candidates.
