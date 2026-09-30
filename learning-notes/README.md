@@ -2,6 +2,13 @@
 
 Notes from courses, books, and tutorials I'm working through.
 
+## Git notes:
+git branch == see all branches
+git branch -a == see branches (including remote)
+git checkout branch-name == switch to an existing branch
+git branch -m new-name == rename current branch
+git branch -d branch-name == Delete branch
+
 ## Python for Data Analysis
 *Notes from "Python for Data Analysis" by Wes McKinney*
 
