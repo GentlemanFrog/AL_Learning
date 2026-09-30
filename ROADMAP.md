@@ -17,7 +17,7 @@
 1. **GitHub Portfolio Setup**
    - Create `AL_Learning` repository with professional README
    - Add project structure: `projects/`, `learning-notes/`, `resources/`
-   - Commit existing code (even if messy) — this is your starting point
+   - Commit existing code (even if messy) — this is a starting point.
 
 2. **Python Refresher** (10 hours)
    - pandas: DataFrames, grouping, merging, time-series operations
@@ -127,8 +127,6 @@
 
 ### Goals
 - Learn MLOps fundamentals (Docker, deployment)
-- Polish portfolio and practice communication
-- Research and target specific Polish companies
 - Prepare for applications
 
 ### Key Tasks
@@ -151,14 +149,11 @@
 
 4. **Job Market Preparation** (5 hours)
    - Research target companies and roles
-   - Tailor CV to highlight portfolio projects
    - Prepare for technical interviews: Python, ML concepts, your project
 
 ### Milestone
 - [ ] Model deployed and accessible via API or web app
 - [ ] SQL proficiency demonstrated
-- [ ] Portfolio polished and presentation-ready
-- [ ] CV tailored and applications ready to send
 
 ---
 
@@ -216,6 +211,5 @@ By the end of 6 months, you should have:
 
 - **Math on-demand:** Learn mathematical concepts as needed for projects rather than front-loading. When you encounter a concept (e.g., gradient descent, convolution), study it then.
 - **Build in public:** Commit to GitHub regularly and share progress.
-- **SAHI is crucial:** Small objects on large images require this technique. Master it early.
-- **Limited data strategy:** Use transfer learning, data augmentation, and SAHI to maximize what you can learn from small datasets.
-- **Industry relevance:** Python + SQL are core requirements. PyTorch is preferred for CV. MLOps skills differentiate candidates.
+- **SAHI is crucial:** Small objects on large images require this technique.
+- **Limited data strategy:** Use transfer learning, data augmentation, and SAHI to maximize what can be learned from small datasets.
