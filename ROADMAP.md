@@ -36,7 +36,7 @@
    - Organize existing images into a structured folder hierarchy
 
 ### Milestone
-- [ ] GitHub repo live with README and project structure
+- [x] GitHub repo live with README and project structure
 - [ ] Can perform basic data wrangling with pandas
 - [ ] Can use command-line Git for daily workflow
 - [ ] Image standardization protocol documented
