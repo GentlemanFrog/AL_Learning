@@ -38,7 +38,7 @@
 ### Milestone
 - [x] GitHub repo live with README and project structure
 - [ ] Can perform basic data wrangling with pandas
-- [ ] Can use command-line Git for daily workflow
+- [x] Can use command-line Git for daily workflow
 - [ ] Image standardization protocol documented
 
 ---
